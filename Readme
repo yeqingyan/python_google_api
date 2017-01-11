@@ -1,0 +1,7 @@
+Json to CSV, run the following command, the output file is example.csv
+python json_to_csv.py 
+
+
+Json to spreadsheet. Please run the following command, then you need to allow this application to create a spreadsheet on google drive.
+Need to create client_secret.json on google, it needs to enable the Google Driver and Sheets APIs. 
+python json_to_spreadsheet.py
